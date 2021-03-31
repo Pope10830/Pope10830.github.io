@@ -45,6 +45,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 ```
 
 # Projects
-
+```
 [Dartboard Detector - Image Processing Coursework](/pages/dartboarddetector.md)  
 [Potential Customer Tracker](/pages/potentialcustomerstracker.md)
+```
