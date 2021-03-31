@@ -1,6 +1,8 @@
 ---
 layout: default
 title: CV
+is_project_page: false
+is_public: false
 ---
 
 # Education
@@ -44,5 +46,5 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 # Projects
 
-[Dartboard Detector - Image Processing Coursework](https://pope10830.github.io/DartboardDetector/)  
-[Potential Customer Tracker](https://pope10830.github.io/PotentialCustomersTracker/)
+[Dartboard Detector - Image Processing Coursework](/pages/dartboarddetector.md)  
+[Potential Customer Tracker](/pages/potentialcustomerstracker.md)
