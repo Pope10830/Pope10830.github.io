@@ -4,6 +4,7 @@ title: Potential Customers Tracker
 description: Java swing form application made for La Espanola to keep track of new potential customers
 is_project_page: true
 is_public: false
+github_url: https://github.com/Pope10830/PotentialCustomersTracker
 ---
 
 Potential Customer Tracker is used by La Espanola employees to keep track of new potential customers.  

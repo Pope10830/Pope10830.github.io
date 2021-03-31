@@ -4,6 +4,7 @@ title: Dartboard Detector
 description: University of Bristol Year 3 - Image Processing and Computer Vision Coursework (COMS30030)
 is_project_page: true
 is_public: true
+github_url: https://github.com/Pope10830/DartboardDetector
 ---
 
 Dartboard Detector finds and highlights dartboards in an image using C++ and OpenCV.
