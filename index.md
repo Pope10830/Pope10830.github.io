@@ -45,7 +45,6 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 ```
 
 # Projects
-```
-[Dartboard Detector - Image Processing Coursework](https://pope10830.github.io/pages/dartboarddetector.html)  
-[Potential Customer Tracker](https://pope10830.github.io/pages/potentialcustomerstracker.html)
-```
+
+[Dartboard Detector - Image Processing Coursework](https://pope10830.github.io/pages/dartboarddetector.md)  
+[Potential Customer Tracker](https://pope10830.github.io/pages/potentialcustomerstracker.md)
