@@ -1,5 +1,5 @@
 ---
-home: true
+type: home
 ---
 
 ## Projects
