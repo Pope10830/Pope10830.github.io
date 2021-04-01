@@ -10,6 +10,7 @@ is_public: false
   <div class="float-child-1" markdown="1">
 
 
+
     ## Education
 
     ### University of Bristol
@@ -51,6 +52,7 @@ is_public: false
   </div>
 
   <div class="float-child-2" markdown="1">
+
 
 
     ## Projects
