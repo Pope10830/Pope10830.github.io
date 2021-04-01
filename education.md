@@ -1,8 +1,5 @@
 ---
-layout: default
-title: CV
-is_project_page: false
-is_public: false
+home: true
 ---
 
 ## Education
@@ -43,14 +40,3 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (AQA)     Level 1/2 Certificate - Further Mathematics - A*
 (OCR)     FSMQ - Additional Mathematics - B
 ```
-
-## Projects
-
-[Dartboard Detector - Image Processing Coursework](dartboarddetector.md)  
-[Potential Customer Tracker](potentialcustomerstracker.md)  
-[Linking Galleries - SPE Coursework](linkinggalleries.md)  
-[Kernel - Concurrent Coursework](kernel.md)  
-[Game Of Life - Concurrent Coursework](gameoflife.md)  
-[3D Renderer - Graphics Coursework](3drenderer.md)  
-[Asteroid Zone - Team Games Project](asteroidzone.md)  
-[EXOGames - CGI Coursework](exogames.md)  
