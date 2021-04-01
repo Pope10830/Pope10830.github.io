@@ -43,7 +43,8 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (AQA)     Level 1/2 Certificate - Further Mathematics - A*
 (OCR)     FSMQ - Additional Mathematics - B
 ```
-||||||||||
+
+<split>
 
 ## Projects
 
