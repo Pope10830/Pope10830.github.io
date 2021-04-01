@@ -16,5 +16,5 @@ Store customer contact details
 Keep track of when customers were contacted
 Make notes on how and when they next need to be contacted
 
-![Main form screenshot](https://imgur.com/dSZYbER)
-![Action form screenshot](https://imgur.com/q574pQ9)
+![Main form screenshot](https://i.imgur.com/dSZYbER.png)  
+![Action form screenshot](https://i.imgur.com/q574pQ9.png)  

@@ -46,8 +46,8 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 # Projects
 
-[Dartboard Detector - Image Processing Coursework](/dartboarddetector.md)  
-[Potential Customer Tracker](/potentialcustomerstracker.md)  
-[Linking Galleries - SPE Coursework](/linkinggalleries.md)  
+[Dartboard Detector - Image Processing Coursework](dartboarddetector.md)  
+[Potential Customer Tracker](potentialcustomerstracker.md)  
+[Linking Galleries - SPE Coursework](linkinggalleries.md)  
 [Kernel - Concurrent Coursework]  
 [Game Of Life - Concurrent Coursework]  
