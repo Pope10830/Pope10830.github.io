@@ -52,11 +52,11 @@
         {{ $content_parts := split content "||||||||||" }}
 
         <div class="col1">
-          {{ index $content_parts 0 | safe.HTML }}
+          {{ index $content_parts 0 }}
         </div>
 
         <div class="col2">
-          {{ index $content_parts 1 | safe.HTML }}
+          {{ index $content_parts 1 }}
         </div>
 
         <footer class="site-footer">
