@@ -4,14 +4,14 @@ title: CV
 is_project_page: false
 is_public: false
 ---
-<div class="col">
+<span class="col">
 
 {% include education.md %}
 
-</div>
+</span>
 
-<div class="col">
+<span class="col">
 
 {% include projects.md %}
 
-</div>
+</span>
