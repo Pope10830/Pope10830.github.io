@@ -50,6 +50,7 @@
       <main id="content" class="main-content" role="main">
 
         {{ $cols := split content "split" }}
+        console.log({{ $cols }})
 
         <div class="content-column">
             {{ index $cols 0 | safe.HTML }}
