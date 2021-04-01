@@ -44,7 +44,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (OCR)     FSMQ - Additional Mathematics - B
 ```
 
-<split>
+|||||
 
 ## Projects
 
