@@ -10,7 +10,7 @@ giturl: https://github.com/Asteroid-Zone
 Asteroid Zone is an online coop multiplayer game made using [Unity](https://unity.com/).  
 It is controlled using only speech recognition voice commands.  
 
-It can be played [here](https://asteroid-zone.herokuapp.com/).
+It can be played [**here**](https://asteroid-zone.herokuapp.com/).
 Final release expected 18/05/2021.
 
 ## My Role
