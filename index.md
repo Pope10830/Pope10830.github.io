@@ -5,13 +5,17 @@ is_project_page: false
 is_public: false
 ---
 
-# Education
+# Contents
+* [Education](#Education)
+* [Projects](#Projects)
 
-## University of Bristol
+## Education
+
+### University of Bristol
 ```
 Computer Science BSc - Predicted 2.1 - Graduate August 2021
 ```
-## Havant College - A Levels
+### Havant College - A Levels
 
 ```
 (AQA)     Computer Science    -   A
@@ -22,9 +26,9 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (OCR)     Practical Endorsement in Physics - Pass
 ```
 
-## Horndean Technology College
+### Horndean Technology College
 
-### GCSEs
+#### GCSEs
 ```
 (OCR)     Computing          -   A
 (OCR)     Mathematics        -   A
@@ -44,7 +48,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (OCR)     FSMQ - Additional Mathematics - B
 ```
 
-# Projects
+## Projects
 
 [Dartboard Detector - Image Processing Coursework](dartboarddetector.md)  
 [Potential Customer Tracker](potentialcustomerstracker.md)  
