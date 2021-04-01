@@ -1,12 +1,10 @@
 ---
 ---
 
+@import 'jekyll-theme-cayman';
+
 .main-content {
   max-width: 100%;
-  padding-right: 5%;
-  padding-left: 5%;
-  margin-right: 5%;
-  margin-left: 5%;
 }
 
 .float-container {
@@ -21,7 +19,7 @@
 .float-child-1 {
   box-sizing: content-box;
   max-width: 100%;
-  width: 50%;
+  width: 65%;
   height: 1000px;
   background: red;
   float: left;
@@ -34,5 +32,3 @@
   height: 1000px;
   background: black;
 }
-
-@import 'jekyll-theme-cayman';
