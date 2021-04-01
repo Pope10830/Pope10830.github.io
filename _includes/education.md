@@ -15,9 +15,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 (OCR)     Practical Endorsement in Physics - Pass
 ```
-
 ### Horndean Technology College
-
 #### GCSEs
 ```
 (OCR)     Computing          -   A
