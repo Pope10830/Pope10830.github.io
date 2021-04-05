@@ -9,7 +9,8 @@ is_public: false
 
   <div class="float-child-1" id="education">
 
-    <div markdown="1">
+    <div class="education" markdown="1">
+
 
 
 
@@ -54,9 +55,13 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 
 
+
+
     </div>
 
+
     <div class="skills" markdown="1">
+
 
 
 
@@ -76,6 +81,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 > Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
 
 > Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
+
 
 
 
