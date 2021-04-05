@@ -9,6 +9,8 @@ is_public: false
 
   <div class="float-child-1" id="education" markdown="1">
 
+    <div class="education" markdown="1">
+
 
 
 
@@ -52,8 +54,9 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 
 
+    </div>
 
-    <div class="skills">
+    <div class="skills" markdown="1">
 
 
 
