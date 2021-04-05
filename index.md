@@ -103,19 +103,19 @@ module
 
 
 
-  ## Skills
+## Skills
 
-  > Good Leader                    -  I've demonstrated strong leadership skills as lead programmer in my university team project.
+> Good Leader                    -  I've demonstrated strong leadership skills as lead programmer in my university team project.
 
-  > Excellent Interpersonal Skills -  I take part in a lot of team sports which has taught me how to work effectively within a team and has expanded my communication skills.
+> Excellent Interpersonal Skills -  I take part in a lot of team sports which has taught me how to work effectively within a team and has expanded my communication skills.
 
-  > Determination                  -  I demonstrated resilience when completing the Edinburgh Marathon in May 2019.
+> Determination                  -  I demonstrated resilience when completing the Edinburgh Marathon in May 2019.
 
-  > Problem Solving                -  I am very good at creating efficient solutions to logical problems which has aided project work both in and out of University.
+> Problem Solving                -  I am very good at creating efficient solutions to logical problems which has aided project work both in and out of University.
 
-  > Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
+> Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
 
-  > Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
+> Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
 
 
 
