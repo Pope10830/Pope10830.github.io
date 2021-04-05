@@ -8,11 +8,7 @@ is_public: false
 <div class="float-container">
 
   <div class="float-child-1" markdown="1">
-  <div class="education">
-
-
-
-
+  <div class="education" markdown="1">
 
 ## Education
 
@@ -51,17 +47,8 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (OCR)     FSMQ - Additional Mathematics - B
 ```
 
-
-
-
   </div>
   <div class="skills" markdown="1">
-
-
-
-
-
-
 
 ## Skills
 
@@ -77,19 +64,9 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 > Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
 
-
-
-
-
-
-
   </div>
-
   </div>
-
   <div class="float-child-2" id="projects" markdown="1">
-
-
 
 ## Project Links
 
@@ -103,13 +80,8 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 [EXOGames - CGI Coursework](exogames.md)  
 [F1 2020 Telemetry](f1telemetry.md)  
 
-
-
   </div>
-
   <div class="float-child-2" id="modules" markdown="1">
-
-
 
 ## University Modules
 
@@ -150,8 +122,5 @@ CGI - EXOGames Coursework
 Team Game Project - Asteroid Zone
 ```
 
-
-
   </div>
-
 </div>
