@@ -54,7 +54,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 
 
-    <div class="skills" markdown="1">
+  <div class="skills" markdown="1">
 
 
 
@@ -82,7 +82,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 
 
-    </div>
+  </div>
 
   </div>
 
