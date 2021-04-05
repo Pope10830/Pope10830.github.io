@@ -7,7 +7,9 @@ is_public: false
 
 <div class="float-container" markdown="1">
 
-  <div class="float-child-1" markdown="1">
+  <div class="columns" markdown="1">
+
+    <div class="float-child-1" markdown="1">
 
 
 ## Education
@@ -48,9 +50,9 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 ```
 
 
-  </div>
+    </div>
 
-  <div class="float-child-2" id="projects" markdown="1">
+    <div class="float-child-2" id="projects" markdown="1">
 
 
 
@@ -68,9 +70,9 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 
 
-  </div>
+    </div>
 
-  <div class="float-child-2" id="modules" markdown="1">
+    <div class="float-child-2" id="modules" markdown="1">
 
 
 
@@ -95,6 +97,8 @@ module
 ```
 
 
+
+    </div>
 
   </div>
 
