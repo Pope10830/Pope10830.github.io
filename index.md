@@ -66,7 +66,8 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
   </div>
   </div>
-  <div class="float-child-2" id="projects" markdown="1">
+  <div class="float-child-2" markdown="1">
+  <div class="project" markdown="1">
 
 ## Project Links
 
@@ -81,7 +82,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 [F1 2020 Telemetry](f1telemetry.md)  
 
   </div>
-  <div class="float-child-2" id="modules" markdown="1">
+  <div class="modules" markdown="1">
 
 ## University Modules
 
@@ -122,5 +123,6 @@ CGI - EXOGames Coursework
 Team Game Project - Asteroid Zone
 ```
 
+  </div>
   </div>
 </div>
