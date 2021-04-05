@@ -5,11 +5,11 @@ is_project_page: false
 is_public: false
 ---
 
-<div class="float-container" markdown="1">
+<div class="float-container">
 
-  <div class="float-child-1" id="education" markdown="1">
+  <div class="float-child-1" id="education">
 
-    <div class="education" markdown="1">
+    <div markdown="1">
 
 
 
