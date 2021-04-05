@@ -81,19 +81,38 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 ### First Year
 
 ```
-module
+Algorithms
+Databases and Cloud Concepts
+Functional Programming
+Imperative Programming
+Introduction to Computer Architecture
+Mathematical Methods for Computer Science
+Object-Oriented Programming
+Probability and Statistics
+Security 101
+Theory of Computation
 ```
 
 ### Second Year
 
 ```
-module
+Communication, Complexity and Number Theory
+Data Structures and Algorithms
+Computer Science in Society
+Concurrent Computing - Game of Life Coursework and OS Kernel Coursework
+Language Engineering
+Software Product Engineering - Linking Galleries Coursework
 ```
 
 ### Third Year
 
 ```
-module
+Artificial Intelligence
+Computational Neuroscience
+Computer Graphics - 3D Renderer Coursework
+Image Processing and Computer Vision - Dartboard Detector Coursework
+CGI - EXOGames Coursework
+Team Game Project - Asteroid Zone
 ```
 
 
