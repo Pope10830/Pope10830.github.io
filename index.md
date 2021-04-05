@@ -7,7 +7,7 @@ is_public: false
 
 <div class="float-container" markdown="1">
 
-  <div class="float-child-1" markdown="1">
+  <div class="float-child-1" id="education" markdown="1">
 
 
 
@@ -48,6 +48,30 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 (AQA)     Level 1/2 Certificate - Further Mathematics - A*
 (OCR)     FSMQ - Additional Mathematics - B
 ```
+
+
+  </div>
+
+  <div class="float-child-1" id="skills" markdown="1">
+
+
+
+
+## Skills
+
+> Good Leader                    -  I've demonstrated strong leadership skills as lead programmer in my university team project.
+
+> Excellent Interpersonal Skills -  I take part in a lot of team sports which has taught me how to work effectively within a team and has expanded my communication skills.
+
+> Determination                  -  I demonstrated resilience when completing the Edinburgh Marathon in May 2019.
+
+> Problem Solving                -  I am very good at creating efficient solutions to logical problems which has aided project work both in and out of University.
+
+> Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
+
+> Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
+
+
 
 
   </div>
@@ -118,29 +142,5 @@ Team Game Project - Asteroid Zone
 
 
   </div>
-
-</div>
-
-<div class="float-container" id="skills" markdown="1">
-
-
-
-
-## Skills
-
-> Good Leader                    -  I've demonstrated strong leadership skills as lead programmer in my university team project.
-
-> Excellent Interpersonal Skills -  I take part in a lot of team sports which has taught me how to work effectively within a team and has expanded my communication skills.
-
-> Determination                  -  I demonstrated resilience when completing the Edinburgh Marathon in May 2019.
-
-> Problem Solving                -  I am very good at creating efficient solutions to logical problems which has aided project work both in and out of University.
-
-> Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
-
-> Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
-
-
-
 
 </div>
