@@ -54,7 +54,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 
 
-## Projects
+## Project Links
 
 [Asteroid Zone - Team Games Project](asteroidzone.md)  
 [Dartboard Detector - Image Processing Coursework](dartboarddetector.md)  
