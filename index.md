@@ -64,6 +64,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 [Game Of Life - Concurrent Coursework](gameoflife.md)  
 [3D Renderer - Graphics Coursework](3drenderer.md)  
 [EXOGames - CGI Coursework](exogames.md)  
+[F1 2020 Telemetry](f1telemetry.md)  
 
 
 
