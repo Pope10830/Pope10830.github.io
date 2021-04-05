@@ -71,13 +71,13 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 ## Skills
 
-> Good Leader        -  Demonstrated leadership skills as lead programmer in my university team project
+> Good Leader        -  I've demonstrated leadership skills as lead programmer in my university team project
 
-> Excellent Teamwork -  Play a lot of team sports which have given me excellent teamwork skills
+> Excellent Teamwork -  I play a lot of team sports which have given me excellent teamwork and communication skills
 
-> Determination      -  Demonstrated determination when I completed Edinburgh marathon
+> Determination      -  I've demonstrated determination when I completed Edinburgh marathon
 
-> Problem Solving    -  Very good at creating efficient solutions to logical problems
+> Problem Solving    -  I am very good at creating efficient solutions to logical problems
 
 
   </div>
