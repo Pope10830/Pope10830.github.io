@@ -68,7 +68,7 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 ## Project Links
 
 [Asteroid Zone - Team Games Project](asteroidzone.md)  
-[Dartboard Detector - Image Processing Coursework](dartboarddetector.md)  
+[Dartboard Detector - Image Processing](dartboarddetector.md)  
 [Potential Customer Tracker](potentialcustomerstracker.md)  
 [Linking Galleries - SPE Coursework](linkinggalleries.md)  
 [Kernel - Concurrent Coursework](kernel.md)  
@@ -86,12 +86,12 @@ Computer Science BSc - Predicted 2.1 - Graduate August 2021
 
 ```
 Algorithms
-Databases and Cloud Concepts
-Functional Programming
-Imperative Programming
+Databases and Cloud Concepts - SQL
+Functional Programming - Haskell
+Imperative Programming - C
 Introduction to Computer Architecture
 Mathematical Methods for Computer Science
-Object-Oriented Programming
+Object-Oriented Programming - Java
 Probability and Statistics
 Security 101
 Theory of Computation
@@ -103,20 +103,20 @@ Theory of Computation
 Communication, Complexity and Number Theory
 Data Structures and Algorithms
 Computer Science in Society
-Concurrent Computing - Game of Life Coursework and OS Kernel Coursework
+Concurrent Computing - Game of Life Coursework (GO) and OS Kernel Coursework (C)
 Language Engineering
-Software Product Engineering - Linking Galleries Coursework
+Software Product Engineering - Linking Galleries Coursework (React and Java)
 ```
 
 ### Third Year
 
 ```
-Artificial Intelligence
+Artificial Intelligence - Prolog and Python
 Computational Neuroscience
-Computer Graphics - 3D Renderer Coursework
-Image Processing and Computer Vision - Dartboard Detector Coursework
+Computer Graphics - 3D Renderer Coursework (C++)
+Image Processing and Computer Vision - Dartboard Detector Coursework (C++)
 CGI - EXOGames Coursework
-Team Game Project - Asteroid Zone
+Team Game Project - Asteroid Zone (C++)
 ```
 
   </div>
