@@ -116,7 +116,7 @@ Computational Neuroscience
 Computer Graphics - 3D Renderer Coursework (C++)
 Image Processing and Computer Vision - Dartboard Detector Coursework (C++)
 CGI - EXOGames Coursework
-Team Game Project - Asteroid Zone (C++)
+Team Game Project - Asteroid Zone (C#)
 ```
 
   </div>
