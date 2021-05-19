@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EXOGames (WIP)
+title: EXOGames
 description: University of Bristol Year 3 - CGI Coursework (COMS30059)
 is_project_page: true
 is_public: false
@@ -14,6 +14,6 @@ I used polygon modelling and set driven key to provide the secondary animation s
 I used constraints to parent the exosuit so it moves correctly with the athlete when animating it.  
 I will use Mayas HumanIK Control Rig to animate the athlete using pose to pose animation.
 
-## Model
-![orthographic screenshots](https://i.imgur.com/lI7bIUQ.png)
-![jetpack screenshots](https://i.imgur.com/bTErjYq.png)
+A full making-of report can be found [**here**](CGIReport.pdf).
+
+<iframe width="967" height="544" src="https://www.youtube.com/embed/3LHgnKOKRos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

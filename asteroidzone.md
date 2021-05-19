@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asteroid Zone (WIP)
+title: Asteroid Zone
 description: University of Bristol Year 3 - Team Games Project
 is_project_page: true
 is_public: false
@@ -11,7 +11,7 @@ Asteroid Zone is an online coop multiplayer game made using [Unity](https://unit
 It is controlled using only speech recognition voice commands.  
 
 It can be played [**here**](https://asteroid-zone.herokuapp.com/).
-Final release expected 18/05/2021.
+Our teams report can be viewed [**here**](AsteroidZoneReport.pdf).  
 
 ## My Role
 I am the Lead Programmer on this project so I am responsible for merging feature branches.  
