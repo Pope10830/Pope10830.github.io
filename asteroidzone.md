@@ -10,13 +10,15 @@ giturl: https://github.com/Asteroid-Zone
 Asteroid Zone is an online coop multiplayer game made using [Unity](https://unity.com/) and hosted on a site made using Razor Pages.  
 It is controlled using only speech recognition voice commands.  
 
-It can be played [**here**](https://asteroid-zone.herokuapp.com/).
+It can be played [**here**](https://asteroid-zone.herokuapp.com/).  
 Our teams report can be viewed [**here**](AsteroidZoneReport.pdf).  
+
+<iframe width="967" height="544" src="https://www.youtube.com/embed/n0k2hH4i5t0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## My Role
 I am the Lead Programmer on this project so I am responsible for merging feature branches.  
-I implemented the command recognition system which interprets what you said and performs the commands.  
-If a command is not valid, I created a system which predicts what the most similar/most likely command would be.  
+I implemented the command recognition system which performs the text-to-action processing.  
+If a command is not valid, I created a system that predicts what command you were trying to perform.  
 This helps make the game run smoother as you don't have to repeat commands as often if the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) doesn't recognise your voice properly.  
 I also implemented a lot of the gameplay logic and some of the multiplayer synchronisation using [Photon Network](https://www.photonengine.com/pun).
 I modelled and animated the space station using Autodesk Maya.
