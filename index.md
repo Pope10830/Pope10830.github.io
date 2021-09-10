@@ -76,6 +76,7 @@ Computer Science BSc - Predicted 2.1 - Graduate July 2021
 [3D Renderer - Graphics Coursework](3drenderer.md)  
 [EXOGames - CGI Coursework](exogames.md)  
 [F1 2020 Telemetry](f1telemetry.md)  
+[Flowbird](flowbird.md)  
 
   </div>
   <div class="modules" markdown="1">
