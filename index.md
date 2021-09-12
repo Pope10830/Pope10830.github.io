@@ -13,7 +13,7 @@ is_public: false
 ## Education
 ### University of Bristol
 ```
-Computer Science BSc - Predicted 2.1 - Graduate July 2021
+Computer Science BSc - 2.1
 ```
 ### Havant College - A Levels
 ```
