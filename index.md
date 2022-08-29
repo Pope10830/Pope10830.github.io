@@ -11,13 +11,16 @@ is_public: false
   <div class="work-experience" markdown="1">
 
 ## Work Experience
-### Flowbird Transport Intelligence
+### [Flowbird Transport Intelligence](flowbird.md)
 
-[Flowbird Page](flowbird.md)
 > Software Engineer (July 2021 - Present)
+
 > Team Lead/Scrum Master (February 2022 - Present)
+
 > Delivered a PoC that was met with excellent customer feedback
+
 > Performed multiple demonstrations to both internal staff and customers
+
 > Successfully lead the team through a major handover period while maintaining velocity
 
   </div>
