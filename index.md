@@ -23,6 +23,8 @@ is_public: false
 
 > Successfully lead the team through a major handover period while maintaining velocity
 
+See more info on the [Flowbird page](flowbird.md)
+
   </div>
   <div class="education" markdown="1">
 
@@ -80,8 +82,6 @@ Computer Science BSc - 2.1
 > Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
 
 > Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
-
-  <p>See more info on the [Flowbird page](flowbird.md)</p>
 
   </div>
   </div>

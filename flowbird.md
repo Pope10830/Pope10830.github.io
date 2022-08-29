@@ -14,8 +14,7 @@ The project also integrated with multiple AWS resources such as AWS Polly, AWS S
 I used my experience from the CGI module at university to model and animate the avatar.
 
 I then worked on an existing WPF application as part of a team to add a feature that allowed users to get assistance from a remote agent via a video call.  
-I also worked on the Java backend solution for sending new configuration to the devices.  
-While working on this project I also spent some time acting as a QA.    
+I also worked on the Java backend solution for sending new configuration to the devices and spent some time as a QA.    
 During this project I gained my first experience of working as part of a development team in the workplace.   
 I learned to use new tools such as Jira for tracking work and Confluence for producing documentation.
 
