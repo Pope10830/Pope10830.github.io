@@ -8,9 +8,27 @@ is_public: false
 <div class="float-container">
 
   <div class="float-child-1" markdown="1">
+  <div class="work-experience" markdown="1">
+
+## Work Experience
+### Flowbird Transport Intelligence
+
+[Flowbird Page](flowbird.md)
+> Software Engineer (July 2021 - Present)
+> Team Lead/Scrum Master (February 2022 - Present)
+> Delivered a PoC that was met with excellent customer feedback
+> Performed multiple demonstrations to both internal staff and customers
+> Successfully lead the team through a major handover period while maintaining velocity
+
+  </div>
   <div class="education" markdown="1">
 
-## Education
+## Education & Training
+### Training
+```
+Certified Scrum Master
+```
+
 ### University of Bristol
 ```
 Computer Science BSc - 2.1
@@ -48,13 +66,13 @@ Computer Science BSc - 2.1
 
 ## Skills
 
-> Good Leader                    -  I've demonstrated strong leadership skills as lead programmer in my university team project.
+> Good Leader                    -  I've demonstrated strong leadership skills to help the team continue to maintain a good velocity through a major handover period.
 
-> Excellent Interpersonal Skills -  I take part in a lot of team sports which has taught me how to work effectively within a team and has expanded my communication skills.
+> Excellent Interpersonal Skills -  I show excellent interpersonal skills in my role as team lead to communicate effectively with stakeholders and the rest of the development team.
 
 > Determination                  -  I demonstrated resilience when completing the Edinburgh Marathon in May 2019.
 
-> Problem Solving                -  I am very good at creating efficient solutions to logical problems which has aided project work both in and out of University.
+> Problem Solving                -  I am very good at creating efficient solutions to logical problems which has aided project work both in University, personally and at work.
 
 > Level-Headed                   -  I work well under pressure as proven by my exceptional exam results.
 
