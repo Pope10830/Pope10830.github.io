@@ -81,7 +81,7 @@ Computer Science BSc - 2.1
 
 > Time Management                -  I have excellent prioritisation skills and am able to deliver work to a strict deadline.
 
-See more info on the [Flowbird page](flowbird.md)
+  <p>See more info on the [Flowbird page](flowbird.md)</p>
 
   </div>
   </div>
