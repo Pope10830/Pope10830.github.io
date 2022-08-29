@@ -15,10 +15,11 @@ I used my experience from the CGI module at university to model and animate the 
 
 I then worked on an existing WPF application as part of a team to add a feature that allowed users to get assistance from a remote agent via a video call.  
 I also worked on the Java backend solution for sending new configuration to the devices.  
-During this project I gained my first experience of working as part of a development team in the workplace.
+While working on this project I also spent some time acting as a QA.    
+During this project I gained my first experience of working as part of a development team in the workplace.   
 I learned to use new tools such as Jira for tracking work and Confluence for producing documentation.
 
-My managers recognised my ability to work and communicate effectively as part of a team and gave me an opportunity to lead a team on a different project.
+My managers recognised my ability to work and communicate effectively as part of a team and gave me an opportunity to lead a team on a different project.   
 This project is to create a device that will allow the top-up and purchase of smartcards for travel.  
 As Team Lead it is my responsibility to provide updates on the status of the project, communicate with other teams to collaborate and share common code and make sure we resolve any blockers.  
 I also act as Scrum Master so I run the meetings throughout the sprint and help the product owner prioritise the remaining work.  
