@@ -77,7 +77,7 @@ Computer Science BSc - 2.1
 
 ## Skills and Qualities
 
-> Good Leader                    -  I've demonstrated strong leadership skills to help my teams continue to maintain good velocity through major handover periods, and created an environment where my team are able to collaborate and feel comfortable to bring forward suggestions on ways we can improve
+> Good Leader                    -  I've demonstrated strong leadership skills to help my teams continue to maintain good velocity through major handover periods, and created an environment where my team are able to collaborate and feel comfortable to bring forward suggestions on ways we can improve.
 
 > Excellent Interpersonal Skills -  I show excellent interpersonal skills in my role as team lead to communicate effectively with stakeholders and the rest of the development team. At Flowbird I have introduced a new process for end of sprint communications to ensure all teams are providing the same level of feedback to stakeholders.
 

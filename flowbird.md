@@ -31,7 +31,7 @@ I am also a developer on this project and have gained experience working with C#
 Since then I have been promoted to lead a bigger team of around 12 engineers (some of which based in other countries) creating ticketing applications for multiple devices across a number of customers.
 We have successfully delivered software releases containing both new features and fixing issues found during testing.
 I have run retrospectives to get input from the team on areas that could be improved, and followed up to make sure these are actioned.
-I have worked on projects where there have been complex branching strategies that needed to be managed due to parallel delivery streams that needed to be released at different times.
+I have worked on projects where there have been complex branching strategies due to parallel delivery streams that needed to be released at different times.
 I have been heavily involved in triage, refinement and estimation to ensure the backlog is in a fit state for development, effectively acting as both Scrum Master and Product Owner at the same time.
 Recently I have taken on line management responsibilities and have been managing 3 junior team members, focusing on resolving any issues they raise and ensuring career development plans are in place.
 
@@ -42,4 +42,4 @@ I introduced the use of Jira Plan views to allow better delivery/release plannin
 I formalised the BVT/SIT test phases as part of the release process making sure it was documented for consistent use across teams.
 I put together and proposed a standard format for end of sprint communications that is now in use across the business unit.
 I proposed and documented a new versioning process as it was inconsistent across teams meaning we have a better understanding of the software we are releasing.
-This list is not extensive, I have been described by my managers as a 'Change Agent', constantly looking to drive forward with improvements. Not just making suggestions but actually pushing to implement changes.
+This list is not extensive, I have been described by my managers as a 'Change Agent', constantly looking to drive forward with improvements. Not just making suggestions but actually pushing to implement change.
