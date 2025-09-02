@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oliver Pope - Software Delivery Lead</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fdfdfc;
+            color: #1a1a1a;
+        }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            width: 1rem;
+            height: 1rem;
+            border-radius: 50%;
+            left: -0.5rem;
+            top: 0.25rem;
+            background-color: #e5e7eb;
+            border: 2px solid #fdfdfc;
+        }
+        .timeline-item.active::before {
+            background-color: #3b82f6;
+            transform: scale(1.1);
+        }
+        .details-panel {
+            transition: max-height 0.5s ease-in-out, opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+            max-height: 0;
+            opacity: 0;
+            overflow: hidden;
+            transform: translateY(-10px);
+        }
+        .details-panel.open {
+            max-height: 1000px;
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .nav-link {
+            transition: color 0.3s;
+        }
+        .nav-link:hover, .nav-link.active {
+            color: #3b82f6;
+        }
+    </style>
+</head>
+<body class="antialiased">
+    <header class="bg-white/80 backdrop-blur-md fixed top-0 left-0 right-0 z-50 border-b border-gray-200">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex-shrink-0">
+                    <h1 class="text-xl font-bold text-gray-800">Oliver Pope</h1>
+                </div>
+                <nav class="hidden md:block">
+                    <div class="ml-10 flex items-baseline space-x-4">
+                        <a href="#summary" class="nav-link px-3 py-2 rounded-md text-sm font-medium text-gray-700">Summary</a>
+                        <a href="#experience" class="nav-link px-3 py-2 rounded-md text-sm font-medium text-gray-700">Experience</a>
+                        <a href="#impact" class="nav-link px-3 py-2 rounded-md text-sm font-medium text-gray-700">Impact</a>
+                        <a href="#skills" class="nav-link px-3 py-2 rounded-md text-sm font-medium text-gray-700">Skills</a>
+                        <a href="#education" class="nav-link px-3 py-2 rounded-md text-sm font-medium text-gray-700">Education</a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-24">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <section id="summary" class="py-16">
+                 <div class="text-center">
+                    <h2 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">Software Delivery Lead</h2>
+                    <div class="mt-6 flex justify-center items-center gap-x-6 text-gray-600">
+                        <span>07806821131</span>
+                        <span class="h-4 w-px bg-gray-300"></span>
+                        <span>pope10830@gmail.com</span>
+                        <span class="h-4 w-px bg-gray-300"></span>
+                        <span>Dorset, UK</span>
+                    </div>
+                    <div class="mt-4">
+                         <a href="https://www.linkedin.com/in/oliver-pope-ab6608181" target="_blank" class="text-blue-600 hover:text-blue-800 font-medium">LinkedIn Profile</a>
+                    </div>
+                </div>
+                <div class="mt-12 max-w-3xl mx-auto">
+                    <p class="text-lg text-gray-700 leading-relaxed text-center">
+                        Dynamic and results-driven Software Delivery Lead with over four years of rapid progression from Graduate Software Engineer to a leadership role. Proven ability to lead high-performing, multi-disciplinary teams of up to 12 engineers. A hands-on leader and Certified Scrum Master recognized as a "Change Agent" for consistently driving process improvements, optimising workflows, and enhancing delivery efficiency.
+                    </p>
+                </div>
+            </section>
+
+            <div class="border-t border-gray-200"></div>
+
+            <section id="experience" class="py-20">
+                <h3 class="text-3xl font-bold text-center mb-12 text-gray-900">Experience</h3>
+                <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">This section provides an interactive overview of my career progression at Flowbird. Click on each role to expand and see the detailed responsibilities and achievements. This format is designed to highlight my rapid growth and the increasing scope of my leadership responsibilities.</p>
+                <div id="timeline-container" class="max-w-3xl mx-auto">
+                </div>
+            </section>
+
+            <div class="border-t border-gray-200"></div>
+
+            <section id="impact" class="py-20 bg-gray-50 rounded-xl">
+                 <div class="text-center">
+                    <h3 class="text-3xl font-bold text-gray-900">Impact as a "Change Agent"</h3>
+                    <p class="mt-4 max-w-2xl mx-auto text-gray-600">A key part of my role has been to identify inefficiencies and drive meaningful change. This section highlights some of the specific process improvements I have proposed and implemented, which have led to more consistent, predictable, and high-quality software delivery across teams.</p>
+                </div>
+                <div class="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+                    <div class="bg-white p-6 rounded-lg shadow-md">
+                        <h4 class="text-lg font-semibold text-gray-900">Jira Process Optimisation</h4>
+                        <p class="mt-2 text-gray-600">Took on Jira administration to introduce new standardised workflows and leverage metrics for performance analysis and continuous improvement.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md">
+                        <h4 class="text-lg font-semibold text-gray-900">Formalised Test Phases</h4>
+                        <p class="mt-2 text-gray-600">Defined and documented BVT/SIT test phases, creating a consistent, repeatable process adopted across multiple teams.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md">
+                        <h4 class="text-lg font-semibold text-gray-900">Standardised Versioning</h4>
+                        <p class="mt-2 text-gray-600">Proposed and documented a new software versioning process, eliminating inconsistencies and improving clarity on releases.</p>
+                    </div>
+                </div>
+            </section>
+
+            <div class="border-t border-gray-200 my-20"></div>
+
+            <section id="skills" class="py-16">
+                 <div class="text-center">
+                    <h3 class="text-3xl font-bold text-gray-900">Core Competencies</h3>
+                    <p class="mt-4 max-w-2xl mx-auto text-gray-600">My skill set spans technical proficiency in modern frameworks and languages, expertise in cloud and DevOps practices, and strong capabilities in agile project management and team collaboration.</p>
+                </div>
+                <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-10">
+                    <div class="bg-gray-50 p-6 rounded-lg">
+                        <h4 class="text-xl font-semibold text-center mb-4 text-gray-800">Languages & Frameworks</h4>
+                        <ul class="space-y-2 text-gray-700 text-center">
+                            <li>C#</li>
+                            <li>React</li>
+                            <li>Java</li>
+                            <li>Vue.js</li>
+                            <li>WPF</li>
+                        </ul>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg">
+                        <h4 class="text-xl font-semibold text-center mb-4 text-gray-800">Cloud & DevOps</h4>
+                        <ul class="space-y-2 text-gray-700 text-center">
+                            <li>AWS</li>
+                            <li>Jenkins</li>
+                            <li>Bitbucket</li>
+                            <li>Git</li>
+                        </ul>
+                    </div>
+                    <div class="bg-gray-50 p-6 rounded-lg">
+                        <h4 class="text-xl font-semibold text-center mb-4 text-gray-800">Project & Collaboration</h4>
+                        <ul class="space-y-2 text-gray-700 text-center">
+                            <li>Jira (Administration)</li>
+                            <li>Confluence</li>
+                            <li>Scrum & Agile</li>
+                            <li>Team Leadership</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <div class="border-t border-gray-200"></div>
+
+            <section id="education" class="py-20">
+                <div class="text-center">
+                    <h3 class="text-3xl font-bold text-gray-900">Education & Certifications</h3>
+                    <p class="mt-4 max-w-2xl mx-auto text-gray-600">My academic background in Computer Science provided a strong theoretical foundation, which I have supplemented with professional certifications to enhance my practical leadership skills in an agile environment.</p>
+                </div>
+                <div class="mt-12 max-w-2xl mx-auto space-y-8">
+                     <div class="flex items-center gap-x-6">
+                        <div class="flex-shrink-0 bg-blue-100 text-blue-600 rounded-lg p-3">
+                           <span>&#127891;</span>
+                        </div>
+                        <div>
+                            <h4 class="text-lg font-semibold">Computer Science BSc - 2.1</h4>
+                            <p class="text-gray-600">University of Bristol</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-x-6">
+                        <div class="flex-shrink-0 bg-blue-100 text-blue-600 rounded-lg p-3">
+                            <span>&#128220;</span>
+                        </div>
+                        <div>
+                            <h4 class="text-lg font-semibold">Certified ScrumMaster (CSM)</h4>
+                            <p class="text-gray-600">Agile Training Course</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="bg-gray-800 text-white mt-10">
+        <div class="max-w-6xl mx-auto py-6 px-4 sm:px-6 lg:px-8 text-center text-sm">
+            <p>Oliver Pope | 07806821131 | pope10830@gmail.com</p>
+        </div>
+    </footer>
+
+    <script>
+        const experienceData = [
+            {
+                role: 'Software Delivery Lead',
+                company: 'Flowbird',
+                dates: 'January 2023 - Present',
+                details: [
+                    'Led a team of 12 engineers, including a mix of both on-site and offshore engineers, overseeing the full software development lifecycle for multiple ticketing solutions.',
+                    'Successfully delivered numerous software projects, integrating/developing new features and addressing critical issues found during testing.',
+                    'Ensured continuous improvement by running and actioning team retrospectives, resulting in measurable enhancements to team processes.',
+                    'Managed complex branching and release strategies to support parallel delivery streams with staggered release schedules.',
+                    'Provided line management for 5 team members, focusing on career development and performance reviews.',
+                ]
+            },
+            {
+                role: 'Software Engineer (with Scrum Master responsibilities)',
+                company: 'Flowbird',
+                dates: 'October 2021 - January 2023',
+                details: [
+                    'Contributed as a hands-on developer using C# and WPF, and gained experience with tools like Bitbucket and Jenkins for version control and automated builds.',
+                    'Gained initial experience leading a team of engineers in a corporate development environment, utilising tools such as Jira for work tracking and Confluence for documentation.',
+                ]
+            },
+            {
+                role: 'Graduate Software Engineer',
+                company: 'Flowbird',
+                dates: 'July 2021 - October 2021',
+                details: [
+                    'Worked on a Proof of Concept (PoC) web application as the sole developer, using the Vue.js framework and integrating with AWS Polly, Sumerian, and Lex to create an interactive avatar/chatbot.',
+                ]
+            }
+        ];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const timelineContainer = document.getElementById('timeline-container');
+
+            experienceData.forEach((job, index) => {
+                const itemWrapper = document.createElement('div');
+                itemWrapper.className = 'relative pl-8 pb-8 border-l border-gray-200';
+
+                const timelineItem = document.createElement('div');
+                timelineItem.className = `timeline-item cursor-pointer group ${index === 0 ? 'active' : ''}`;
+
+                const header = document.createElement('div');
+                header.className = 'flex items-center justify-between';
+
+                const title = document.createElement('h4');
+                title.className = 'text-lg font-semibold text-gray-800 group-hover:text-blue-600';
+                title.textContent = job.role;
+
+                const dates = document.createElement('p');
+                dates.className = 'text-sm text-gray-500';
+                dates.textContent = job.dates;
+
+                header.appendChild(title);
+                header.appendChild(dates);
+
+                const detailsPanel = document.createElement('div');
+                detailsPanel.className = `details-panel mt-2 pl-2 ${index === 0 ? 'open' : ''}`;
+
+                const detailsList = document.createElement('ul');
+                detailsList.className = 'list-disc list-inside space-y-2 text-gray-600';
+
+                job.details.forEach(detail => {
+                    const li = document.createElement('li');
+                    li.textContent = detail;
+                    detailsList.appendChild(li);
+                });
+
+                detailsPanel.appendChild(detailsList);
+                timelineItem.appendChild(header);
+                itemWrapper.appendChild(timelineItem);
+                itemWrapper.appendChild(detailsPanel);
+                timelineContainer.appendChild(itemWrapper);
+
+                timelineItem.addEventListener('click', () => {
+                    const allItems = document.querySelectorAll('.timeline-item');
+                    const allPanels = document.querySelectorAll('.details-panel');
+
+                    const currentlyOpen = detailsPanel.classList.contains('open');
+
+                    allItems.forEach(item => item.classList.remove('active'));
+                    allPanels.forEach(panel => panel.classList.remove('open'));
+
+                    if (!currentlyOpen) {
+                        timelineItem.classList.add('active');
+                        detailsPanel.classList.add('open');
+                    }
+                });
+            });
+
+            const navLinks = document.querySelectorAll('.nav-link');
+            const sections = document.querySelectorAll('section');
+
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.4
+            };
+
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        navLinks.forEach(link => {
+                            link.classList.toggle('active', link.getAttribute('href').substring(1) === entry.target.id);
+                        });
+                    }
+                });
+            }, observerOptions);
+
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+        });
+    </script>
+
+</body>
+</html>
