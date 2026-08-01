@@ -2,4 +2,4 @@ title: CV
 description: CV
 show_downloads: false
 theme: jekyll-theme-cayman
-include: ["activity-tracker/_expo"]
+include: ["_expo"]
